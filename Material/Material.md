@@ -7,6 +7,7 @@
 ### - Protoboard pequeño
 ### - Protoboard normal
 ### - Conector Tamiya hembra con cables *<https://bateriasonline.com/es/conectores/conector-tamiya-hembra-con-cables-conectores.html>*
+### - Cables de colores
 
 ### - Mano 3D
 ### - ...
